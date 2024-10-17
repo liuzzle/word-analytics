@@ -23,10 +23,10 @@ The Word Analytics project offers the following features:
 
 ### How to Use
 
-	1.	Open the index.html file in a web browser.
-	2.	Enter a noun (from German, English, or French) in the input field.
-	3.	Click the Analyze! button.
-	4.	The results will be displayed under the analysis section, and if the word is a palindrome, a colored visualization will appear.
+1. Open the index.html file in a web browser.
+2. Enter a noun (from German, English, or French) in the input field.
+3. Click the Analyze! button.
+4. The results will be displayed under the analysis section, and if the word is a palindrome, a colored visualization will appear.
 
 ### Installation
 
@@ -34,18 +34,18 @@ To run the project locally:
 
 1.	Clone the repository:
 
-    `$git clone https://github.com/your-username/word-analytics-project.git`
+   `$ git clone https://github.com/your-username/word-analytics-project.git`
 
 
 2.	Navigate to the project directory:
 
-    `$cd word-analytics-project`
+    `$ cd word-analytics-project`
 
 
 3.	Open index.html in your preferred browser:
 
-  For MacOS: `$open index.html`  
-  For Windows: `$start index.html` 
+  For MacOS: `$ open index.html`  
+  For Windows: `$ start index.html` 
 
 No additional installations are required as this is a pure front-end project.
 
